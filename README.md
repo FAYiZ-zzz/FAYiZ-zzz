@@ -2,7 +2,7 @@
 - 👀 I’m interested in TECHNOLOGY
 - 🌱 I’m currently learning C++ & DSA
 - 💞️ I’m looking to collaborate on small projects
-- 📫 How to reach me xxx
+- 📫 How to reach me xxxxx!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
