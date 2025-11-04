@@ -1,7 +1,7 @@
 - 👋 Hi, I’m FAYIZ
 - 👀 I’m interested in TECHNOLOGY
-- 🌱 I’m currently learning C++ & DSA
-- 💞️ I’m looking to collaborate on small projects
+- 🌱 I’m currently learning DSA
+- 💞️ I’m looking for small projects' collaborations.
 - 📫 How to reach me xxxxx!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
