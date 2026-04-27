@@ -1,6 +1,6 @@
 - 👋 Hi, I’m FAYIZ
-- 👀 I’m interested in TECHNOLOGY
-- 🌱 I’m currently learning DSA
+- 👀 I’m learning TECHNOLOGY
+- 🌱 I’m currently learning DSA+Backend Development
 - 💞️ I’m looking for small projects' collaborations.
 - 📫 How to reach me xxxxx!
 - 😄 Pronouns: ...
